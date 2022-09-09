@@ -1,4 +1,4 @@
-![#21daysofcode](![21daysoscode](https://user-images.githubusercontent.com/46784384/189349510-cdaaff6a-3d0d-43c3-86b5-c135fae304dc.svg)
+(https://user-images.githubusercontent.com/46784384/189349510-cdaaff6a-3d0d-43c3-86b5-c135fae304dc.svg)
 
 
 #
