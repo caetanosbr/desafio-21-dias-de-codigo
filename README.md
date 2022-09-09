@@ -6,7 +6,7 @@
 
 Uma série de desafios propostos pela [Rocketseat](www.rocketseat.com.br), a serem concluídos em 21 dias, codando durante, pelo menos, 1h/dia.
 
-## Os desafios
+## Desafio
 
 ### Parte 01
 
@@ -18,7 +18,7 @@ Uma série de desafios propostos pela [Rocketseat](www.rocketseat.com.br), a ser
 - [ ] Dia 06 - Criar um card com efeito glassmorphism
 - [ ] Dia 07 - Desenvolver um contador
 
-## Objetivos
+## Objetivo
 
 - [x] Codar, no mínimo, 1h por dia
 - [x] Compartilhar meu progresso
