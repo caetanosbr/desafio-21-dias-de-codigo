@@ -1,4 +1,4 @@
-![HelloWorld](./HelloWorld.jpg)
+![HelloWorld](./HelloWorld.JPG)
 
 #
 
