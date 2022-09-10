@@ -13,6 +13,7 @@
 
 - HTML
 - CSS
+- Javascript
 
 ## Imagens
 
