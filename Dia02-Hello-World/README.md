@@ -20,4 +20,4 @@
 
 ## Deploy
 
-Você pode conferir o projeto rodando [aqui](famous-croissant-503baf.netlify.app).
+Você pode conferir o projeto rodando [aqui](https://ttfamous-croissant-503baf.netlify.app).
