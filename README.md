@@ -12,7 +12,7 @@ Uma série de desafios propostos pela [Rocketseat](www.rocketseat.com.br), a ser
 
 - [X] Dia 01 - Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código
 - [X] Dia 02 - Fazer um Hello Word customizado com fontes, cores e imagens
-- [ ] Dia 03 - Criar um botão animado
+- [X] Dia 03 - Criar um botão animado
 - [ ] Dia 04 - Criar uma calculadora
 - [ ] Dia 05 - Desenvolver uma página customizada que exiba o erro 404
 - [ ] Dia 06 - Criar um card com efeito glassmorphism
