@@ -1,0 +1,73 @@
+*,
+*::after,
+*::before {
+box-sizing: border-box;
+}
+
+body {
+min-height:100vh;
+background-color: #060b16;
+color: #2bb943;
+font-family: sans-serif, cursive;
+display: flex;
+justify-content: center;
+align-items:center ;
+}
+
+.botao {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 64px;
+    font-weight: bold;
+    color: #07e92d;
+    border: 8px solid #07e92d;
+    padding: 16px 64px ;
+    border-radius: 12px;
+
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.3), 0 0 29px #07e92d;
+
+    box-shadow: inset 0 0 32px #07e92d, 0 0 32px #07e92d;
+
+    position: relative;
+}
+
+.botao::before {
+    pointer-events: none;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #07e92d;
+    left: 0;
+    top: 120%;
+
+    transform: perspective(64px) rotateX(40deg) scale(1, 0.35); 
+    filter: blur(64px);
+    opacity: 0.7;
+}
+
+.botao::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #07e92d;
+    
+    box-shadow: 0 0 128px 32px #07e92d;
+    z-index: -1;
+    opacity: 0;
+    transition: opacity 100ms linear;
+}
+
+.botao:hover::after,
+.botao:focus::before{
+    opacity: 1;
+}
+
+.botao:hover,
+.botao:focus {
+    color:#099421;
+    text-shadow: 0 0 8px;
+}
